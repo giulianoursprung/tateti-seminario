@@ -1,0 +1,7 @@
+G:\Primeras_Pruebas_\Tateti\bin\Debug\Tateti.exe
+G:\Primeras_Pruebas_\Tateti\bin\Debug\Tateti.pdb
+G:\Primeras_Pruebas_\Tateti\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Primeras_Pruebas_\Tateti\obj\x86\Debug\Tateti.exe
+G:\Primeras_Pruebas_\Tateti\obj\x86\Debug\Tateti.pdb
+F:\Primeras_Pruebas_\Tateti\obj\x86\Debug\Tateti.exe
+F:\Primeras_Pruebas_\Tateti\obj\x86\Debug\Tateti.pdb
